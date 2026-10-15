@@ -1,0 +1,7 @@
+/DATASET/
+/REF/
+
+# Python and Jupyter generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
